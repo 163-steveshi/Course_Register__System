@@ -1,8 +1,2 @@
-
-## POST AND PUT Request Body:
-# required message
-{
-    "firstName" : "Steve",
-    "lastName" : "Shi",
-    "email" : "steveshi@Gmail.com"
-}
+Current In Development
+README Will constantly updated
